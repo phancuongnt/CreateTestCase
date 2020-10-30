@@ -42,6 +42,7 @@
             // projectForm
             // 
             this.projectForm.AutoSize = true;
+            this.projectForm.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(208)))), ((int)(((byte)(142)))));
             this.projectForm.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.projectForm.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.projectForm.Location = new System.Drawing.Point(40, 32);
@@ -54,6 +55,7 @@
             // project
             // 
             this.project.AutoSize = true;
+            this.project.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(208)))), ((int)(((byte)(142)))));
             this.project.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.project.Location = new System.Drawing.Point(40, 103);
             this.project.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
@@ -65,6 +67,7 @@
             // platform
             // 
             this.platform.AutoSize = true;
+            this.platform.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(208)))), ((int)(((byte)(142)))));
             this.platform.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.platform.Location = new System.Drawing.Point(40, 170);
             this.platform.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
@@ -76,6 +79,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
+            this.label1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(208)))), ((int)(((byte)(142)))));
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(376, 170);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
@@ -87,6 +91,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
+            this.label2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(208)))), ((int)(((byte)(142)))));
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(376, 103);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
@@ -120,7 +125,7 @@
             // dateTimePicker2
             // 
             this.dateTimePicker2.Format = System.Windows.Forms.DateTimePickerFormat.Short;
-            this.dateTimePicker2.Location = new System.Drawing.Point(493, 162);
+            this.dateTimePicker2.Location = new System.Drawing.Point(493, 164);
             this.dateTimePicker2.Name = "dateTimePicker2";
             this.dateTimePicker2.Size = new System.Drawing.Size(131, 26);
             this.dateTimePicker2.TabIndex = 8;
